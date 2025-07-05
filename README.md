@@ -13,7 +13,7 @@ Real-time chat interaction with dynamic response display.
 Dialogflow Integration: The chatbot utilizes predefined intents and responses for simulating conversation.
 CustomTkinter GUI: A modern, customizable graphical interface with input and output chat display.
 Predefined Responses: Covers various domains such as software development, consulting services, MVP creation, testing, and more.
-Cross-Platform Compatibility: Runs on Windows, MacOS, and Linux (Python installed).
+ Cross-Platform Compatibility: Runs on Windows, MacOS, and Linux (Python installed).
 # Requirements
 Dependencies
 Python 3.7+
